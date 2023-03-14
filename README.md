@@ -1,6 +1,6 @@
-- 👋 Hi, I’m 🎩 jaikishan kumar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m 🎩 jaikishan kumar😎
+- 👀 I’m interested in programming❤🧡💛💚💙🤎
+- 🌱 I’m currently learning angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
